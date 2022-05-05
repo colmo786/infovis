@@ -1,0 +1,18 @@
+leveraging the human visual system's highly-tuned ability to:
+- see patterns
+- spot trends
+- identify outliers
+
+ graphical features such as position, size, shape, and color.
+ 
+ index chart aprender a programarlo
+ 
+ brushing-and-linking? identify patterns?
+ 
+ choropleth map
+ 
+ Adjacency diagrams
+ 
+ force-directed layout
+ 
+ seriation
